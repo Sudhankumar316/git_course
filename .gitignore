@@ -1,7 +1,8 @@
 #ignore all txt file.
-
 *.txt
 
-#ignore all PNG images file
-
+#ignore all PNG image file
 *.png
+
+#ignore all JGP image file
+*.jpg
